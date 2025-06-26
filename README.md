@@ -30,8 +30,7 @@
 [<img src="https://cdn.simpleicons.org/blender/000/fff" alt="Blender" align=left width=24 height=24>Extension](https://extensions.blender.org/author/139/)
 
 </p>
-.
-<hr>
+
 <h2  align="center">📫 Reach me on</h2>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/dinesh-m-a1762b166"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
