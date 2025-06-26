@@ -1,6 +1,13 @@
 <h1  align="center">👋🏼 I’m Dinesh_M 👋🏼 </h1>
-<h3  align="center">✨2D/3D_Graphics_Designer⚡</h3>
 
+<h3  align="center">
+<details>
+  
+  <summary><h2>✨2D/3D_Graphics_Designer⚡</h2></summary>
+
+  a skilled 2D/3D Generalist with a strong foundation in both creative design and technical execution. I specialize in modeling, texturing, lighting, animation, and compositing across a wide range of visual styles and platforms. With hands-on experience in the full production pipeline, I bring concepts to life with efficiency, attention to detail, and a passion for storytelling. Whether it's creating assets for games, films, advertisements, or virtual experiences, I aim to deliver high-quality visuals that meet both artistic and production goals.
+</details>
+</h3>
 
 <h2  align="center">🛠️ My_Tools</h2>
 <p align="center"> 
